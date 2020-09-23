@@ -1,5 +1,15 @@
 <style>
-.jumbo { color: red}
-.intro {color: red}
-.container {border-color: rgb(4, 8, 230); border-style: dotted; }
-.tagline { color:blue}
+.Jumbo { text-align: center}
+.container1 {
+    border-color: rgb(4, 8, 230); 
+    border-style: double;  
+    padding: 30px; 
+    background: rgb(56, 56, 42)
+    }
+.navbar {
+    color: blue; 
+    background:rgb(56, 56, 42)
+    }
+.navbar-brand {
+     text-align: center}
+body {background: rgb(109, 107, 107)}
