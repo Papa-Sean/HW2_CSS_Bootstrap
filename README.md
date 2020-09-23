@@ -11,3 +11,7 @@ HW2
 - Added same boilerplate styling to contact page as well as portfolio page
 
 I am so lost right now....
+
+- Added pictures to the portfolio page
+- Added form to contact page
+- Added a placeholder button to the contact page
