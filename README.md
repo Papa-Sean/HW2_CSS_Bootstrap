@@ -15,3 +15,5 @@ I am so lost right now....
 - Added pictures to the portfolio page
 - Added form to contact page
 - Added a placeholder button to the contact page
+- Changed directory structure because I could not load the page on gitlab
+- reworked all relative links now that there is a directory structure that makes sense

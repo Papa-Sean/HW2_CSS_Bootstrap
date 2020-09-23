@@ -1,0 +1,21 @@
+<style>
+.Jumbo { max-width: 550px;
+    margin: 0px auto}
+.container1 {
+    border-color: rgb(8, 45, 87); 
+    border-style: double;  
+    padding: 30px; 
+    background: rgb(56, 56, 42)
+    }
+.navbar {
+    color: blue; 
+    background:rgb(56, 56, 42)
+    }
+.navbar-brand {
+     text-align: center}
+body {background: rgb(109, 107, 107)}
+.container2 {
+    max-width: 550px;
+    margin: 0px
+}
+.bio { font-weight: 260;}
