@@ -1,5 +1,6 @@
 <style>
-.Jumbo { text-align: center}
+.Jumbo { max-width: 550px;
+    margin: 0px auto}
 .container1 {
     border-color: rgb(4, 8, 230); 
     border-style: double;  
@@ -13,3 +14,7 @@
 .navbar-brand {
      text-align: center}
 body {background: rgb(109, 107, 107)}
+.container2 {
+    max-width: 550px;
+    margin: 0px
+}
