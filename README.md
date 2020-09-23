@@ -17,3 +17,5 @@ I am so lost right now....
 - Added a placeholder button to the contact page
 - Changed directory structure because I could not load the page on gitlab
 - reworked all relative links now that there is a directory structure that makes sense
+- My index file had a capital I and even though I renamed it, I had to delete it and push it back up for github to recognize it
+- added a link to the home screen once info is submitted on the contact page
