@@ -167,7 +167,8 @@ body {background: rgb(109, 107, 107)}
     font-size: 1.25rem;
     font-weight: bold;
   }
-  
+  .flip-card-inner-back-lf,
+  .flip-card-inner-back-pwg,
   .flip-card-inner-back-wds {
     -webkit-transform: rotateY(180deg);
             transform: rotateY(180deg);
@@ -185,6 +186,8 @@ body {background: rgb(109, 107, 107)}
     padding: 1rem;
   }
   
+  .flip-card-inner-back-text-pwg,
+  .flip-car-inner-back-text-lf,
   .flip-card-inner-back-text-wds {
     background: lightgray; 
     font-weight: bold;
@@ -198,7 +201,9 @@ body {background: rgb(109, 107, 107)}
         -ms-flex-pack: center;
             justify-content: center;
   }
-  .flip-card-inner-back-text-pwg {
+  .flip-card-inner-back-text-pwg,
+  .flip-car-inner-back-text-lf,
+  .flip-card-inner-back-text-wds {
     background: lightgray; 
     font-weight: bold;
     background-size: contain;
@@ -211,7 +216,9 @@ body {background: rgb(109, 107, 107)}
         -ms-flex-pack: center;
             justify-content: center;
   }
-  .flip-card-inner-back-text-lf {
+  .flip-card-inner-back-text-pwg,
+  .flip-car-inner-back-text-lf,
+  .flip-card-inner-back-text-wds {
     background: lightgray; 
     font-weight: bold;
     background-size: contain;
@@ -224,7 +231,8 @@ body {background: rgb(109, 107, 107)}
         -ms-flex-pack: center;
             justify-content: center;
   }
-  
+  .flip-card-inner-back-text-pwg,
+  .flip-car-inner-back-text-lf,
   .flip-card-inner-back-text-wds {
 
     line-height: 1.3;
